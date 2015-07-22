@@ -1,0 +1,13 @@
+{
+  "name": "binaryjs-upload-stream",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "binaryjs": "0.2.1",
+    "express": "^3.21.1"
+  },
+  
+}
